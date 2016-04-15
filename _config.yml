@@ -1,0 +1,19 @@
+# Site settings
+title: 每天一点
+email: heychilde@gmail.com
+description: 
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://gitcommit.today"
+# twitter_username: jekyllrb
+github_username:  childe
+
+# Build settings
+markdown: kramdown
+extensions: [fenced_code_blocks]
+
+# paging settings
+paginate: 10
+
+gems :
+  - jekyll-paginate
