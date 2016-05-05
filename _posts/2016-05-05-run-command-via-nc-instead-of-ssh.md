@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "通过nc来远程跑命令"
-date:   
+date:   2016-05-05 13:36:14 +0800
 ---
 
 公司服务器登陆用了OTP(ont time password), 每次登陆服务器都要输入不同的token, 有些麻烦. 大家讨论有哪些办法可以绕过去. 我通过想到了nc.
