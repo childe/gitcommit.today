@@ -59,4 +59,4 @@ echo $((read2-read1))
 read(16384)的时候, 会有几次磁盘IO? 看reads completed的值, 8192和16384没有区别.
 
 # 非疑问
-st_blksize 是4096, 所以readahead小于8是没效果的.
+st_blksize 是4096, 所以readahead一定要是8的位数.
