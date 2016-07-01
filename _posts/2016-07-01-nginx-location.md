@@ -42,3 +42,25 @@ nginx在匹配路径之前, 会首先把uri中%XX这样格式的内容先解码,
 
 3. 如果前缀路径有 = 修饰符, 不再继续寻找
 
+4. uri前面加一个@, 叫做 named location, 普通的请求不管他, 只用在一些内部的跳转上, 比如下面这样
+
+    ```
+    location / {
+        error_page 404 = @fallback;
+    }
+
+    location @fallback {
+        proxy_pass http://backend;
+    }
+    ```
+
+5. 如果一个前缀路径最后以/结尾, 而且请求被proxy_pass, fastcgi_pass, uwsgi_pass, scgi_pass, or memcached_pass中的一个处理, 这个情况比较特殊: 请求如果不以/结尾, 会返回一个301的重定向响应, 再最后加上/. 如果不想这样, 就要用 = 修饰符做精确匹配, 像下面这样
+
+    ```
+    location /user/ {
+        proxy_pass http://user.example.com;
+    }
+    location = /user {
+        proxy_pass http://login.example.com;
+    }
+    ```
