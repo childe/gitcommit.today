@@ -1,7 +1,9 @@
 ---
+
 layout: post
 title:  "nginx中location的匹配规则"
 date:   2016-07-01 14:36:45 +0800
+
 ---
 
 官方资料见 [http://nginx.org/en/docs/http/ngx_http_core_module.html#location](http://nginx.org/en/docs/http/ngx_http_core_module.html#location)
