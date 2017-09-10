@@ -3,6 +3,7 @@
 layout: post
 title: 生日快乐
 date: 2017-09-09 21:57:15 +0800
+categories: life
 
 ---
 
