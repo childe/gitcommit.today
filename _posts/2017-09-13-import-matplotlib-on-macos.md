@@ -9,14 +9,15 @@ categories: python
 
 报错:
 
-  RuntimeError: Python is not installed as a framework. 
-  The Mac OS X backend will not be able to function correctly if Python is not installed as a framework.
-  See the Python documentation for more information on installing Python as a framework on Mac OS X.
-  Please either reinstall Python as a framework, or try one of the other backends.
-  If you are using (Ana)Conda please install python.app and replace the use of ‘python’ with ‘pythonw’.
-  See ‘Working with Matplotlib on OSX’ in the Matplotlib FAQ for more information.
+    RuntimeError: Python is not installed as a framework.
+    The Mac OS X backend will not be able to function correctly if Python is not installed as a framework.
+    See the Python documentation for more information on installing Python as a framework on Mac OS X.
+    Please either reinstall Python as a framework, or try one of the other backends.
+    If you are using (Ana)Conda please install python.app and replace the use of ‘python’ with ‘pythonw’.
+    See ‘Working with Matplotlib on OSX’ in the Matplotlib FAQ for more information.
 
 解决:
 
-    I assume you have installed the pip matplotlib, there is a directory in you root called ~/.matplotlib.
+    I assume you have installed the pip matplotlib,  
+    there is a directory in you root called ~/.matplotlib.
     Create a file ~/.matplotlib/matplotlibrc there and add the following code: backend: TkAgg
