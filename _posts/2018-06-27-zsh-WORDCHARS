@@ -1,0 +1,11 @@
+---
+
+title: 'zsh里面backward-delete-word不能删除-'
+layout: post
+date: 2018-06-27T16:35:08+0800
+
+---
+
+https://github.com/robbyrussell/oh-my-zsh/issues/5108
+
+WORDCHARS='-' 就好了, 现在删除word爽多了
