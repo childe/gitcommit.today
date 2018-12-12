@@ -17,7 +17,7 @@ POST _reindex?
     "type": "dashboard"
   },
   "script": {
-    "source": "if (ctx._source.type == 'temp') {ctx._source['type']='temp'} else {ctx._source['type']='dashboard'}",
+    "source": "if (ctx.type == 'temp') {ctx._source['type']='temp'} else {ctx._source['type']='dashboard'}",
     "lang": "painless"
   }
 }
