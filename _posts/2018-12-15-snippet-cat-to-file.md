@@ -6,7 +6,9 @@ layout: post
 
 ---
 
+```
 cat > a.conf << END
 abcd
 xyz
 END
+```
