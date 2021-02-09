@@ -3,9 +3,8 @@ title: 每天多一点
 email: heychilde@gmail.com
 description: 
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://gitcommit.today"
-# twitter_username: jekyllrb
+baseurl: "/gitcommit.today/"
+url: "https://childe.github.io"
 github_username:  childe
 
 # Build settings
