@@ -3,7 +3,7 @@ title: 每天多一点
 email: heychilde@gmail.com
 description: '每天多一点'
 
-baseurl: "/gitcommit.today"
+baseurl: "/gitcommit.today/"
 url: "https://childe.github.io"
 github_username:  childe
 
