@@ -19,3 +19,4 @@ Proxy 里面的 inflight 又能起什么作用呢？
 
 1. inflight 打印一下，看看哪哪请求进到里面？
 2. 本地调试，断点看一下 filesystem.GetContent 是哪里调用来的。
+3. pbs.serveLocal(ctx, w, r, dgst) 之前先 sleep random，拿一个小 Layer 来测试的时候，sleep 短的那个请求肯定已经完成了，所以只能会一次请求到后面。
