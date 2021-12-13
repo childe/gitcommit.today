@@ -23,4 +23,6 @@ date: 2021-12-11T00:58:45+0800
 4. 拿大 Layer 来测，两个请求应该会一起透传到后面吧。
 
 
-2. filesystem.GetContent 是 Stat 的时候，需要先读取 link 内容，然后再去 stat link 文件
+2. filesystem.GetContent 是 Stat 的时候，需要先读取 link 内容，然后再去 stat link 文件。在 `(bh *blobHandler) GetBlob -> desc, err := blobs.Stat(bh, bh.Digest)` 里面有一次，然后再 serveLocal 里面又有一次。
+
+之前问题 3 一直稳定复现的，但是加了一些 Debug 日志之后，这个问题复制不了了。。
