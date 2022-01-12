@@ -1,10 +1,10 @@
 # Site settings
 title: 每天多一点
-email: heychilde@gmail.com
+email: rmself@qq.com
 description: '每天多一点'
 
-baseurl: "/gitcommit.today"
-url: "https://childe.github.io"
+baseurl: "/"
+url: "http://gitcommit.today"
 github_username:  childe
 
 # Build settings
