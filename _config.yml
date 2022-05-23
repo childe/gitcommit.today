@@ -1,4 +1,5 @@
-# Site settings
+remote_theme: jekyll/minima
+
 title: 每天多一点
 email: rmself@qq.com
 description: '每天多一点'
@@ -7,14 +8,17 @@ baseurl: "/"
 url: "http://gitcommit.today"
 github_username:  childe
 
+excerpt_separator: <!--more-->
+show_excerpts: true
+paginate: 10
+paginate_path: "/page:num/"
+
+lang: zh-cmn-Hans
+
 # Build settings
 markdown: kramdown
 extensions: [fenced_code_blocks]
 
-# paging settings
-paginate: 10
-
-gems :
-  - jekyll-paginate
-
-theme: jekyll-theme-minimal
+plugins:
+- jekyll-remote-theme
+- jekyll-paginate
