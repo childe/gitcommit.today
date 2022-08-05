@@ -15,10 +15,22 @@ paginate_path: "/page:num/"
 
 lang: zh-cmn-Hans
 
-# Build settings
-markdown: kramdown
-extensions: [fenced_code_blocks]
 
 plugins:
 - jekyll-remote-theme
 - jekyll-paginate
+
+google_analytics: UA-56892769-2
+
+minima:
+  skin: solarized
+  date_format: "%-d %b, %Y"
+
+  header_pages:
+    - about.md
+  social_links:
+    github: childe
+
+author:
+  name: childe
+  email: "rmself@qq.com"
