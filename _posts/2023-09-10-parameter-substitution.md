@@ -4,6 +4,7 @@ date: 2023-09-10T19:05:26+0800
 layout: post
 
 ---
+[Advanced Bash-Scripting Guide: Manipulating Variables](https://tldp.org/LDP/abs/html/parameter-substitution.html)
 
 > ${parameter-default} and ${parameter:-default} are almost equivalent. The extra : makes a difference only when parameter has been declared, but is null.
 
