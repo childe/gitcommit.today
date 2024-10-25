@@ -32,3 +32,9 @@ good_call_with_problem()
 bad_call_with_problem()
 good_call_with_problem()
 ```
+
+专有名词叫 lazy logging，但我没有在官网找到这一块的说明，看到两篇文章如下
+
+https://medium.com/swlh/why-it-matters-how-you-log-in-python-1a1085851205
+
+https://medium.com/flowe-ita/logging-should-be-lazy-bc6ac9816906
