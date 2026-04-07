@@ -1,6 +1,7 @@
 ---
 
 date: 2025-03-07T11:09:21+0800
+title: 重新加载tmux配置
 layout: post
 
 ---

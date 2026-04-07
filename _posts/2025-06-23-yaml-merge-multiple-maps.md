@@ -1,6 +1,7 @@
 ---
 
 date: 2025-06-23T17:10:40+0800
+title: YAML合并多个映射的语法
 layout: post
 
 ---

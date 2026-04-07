@@ -1,6 +1,7 @@
 ---
 
 date: 2023-07-27T12:38:00+0800
+title: Kafka修复无Leader分区的步骤
 layout: post
 
 ---

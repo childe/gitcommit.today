@@ -1,6 +1,7 @@
 ---
 
 date: 2025-04-17T11:35:46+0800
+title: 运行时更新coc配置无需重启vim
 layout: post
 
 ---

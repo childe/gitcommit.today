@@ -1,7 +1,7 @@
 ---
 
 date: 2023-02-13T16:01:17+0800
-title: rwbs
+title: Linux内核RWBS块IO类型字符串说明
 layout: post
 
 ---

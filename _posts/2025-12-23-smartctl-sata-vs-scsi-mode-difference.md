@@ -1,7 +1,7 @@
 ---
 
 date: 2025-12-23T16:04:50+0800
-title: "sata scsi"
+title: smartctl对SATA盘使用scsi模式时无法获取ATA属性的原因
 layout: post
 
 ---

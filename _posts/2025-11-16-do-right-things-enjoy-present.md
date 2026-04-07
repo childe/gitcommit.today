@@ -1,7 +1,7 @@
 ---
 
 date: 2025-11-16T21:47:33+0800
-title: enjoy
+title: 做正确的事享受当下
 layout: post
 
 ---

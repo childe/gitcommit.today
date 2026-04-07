@@ -1,6 +1,7 @@
 ---
 
 date: 2025-06-16T18:42:49+0800
+title: smartctl输出JSON分析硬盘健康状态
 layout: post
 
 ---

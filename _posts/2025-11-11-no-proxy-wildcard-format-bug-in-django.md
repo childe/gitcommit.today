@@ -1,7 +1,7 @@
 ---
 
 date: 2025-11-11T16:53:56+0800
-title: no-proxy
+title: Django应用中NO_PROXY通配符格式错误导致代理绕过失效
 layout: post
 
 ---

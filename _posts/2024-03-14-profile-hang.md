@@ -1,6 +1,7 @@
 ---
 
 date: 2024-03-14T18:51:54+0800
+title: bcc profile生成火焰图卡住因访问debuginfod
 layout: post
 
 ---

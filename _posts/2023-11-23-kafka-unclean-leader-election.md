@@ -1,6 +1,7 @@
 ---
 
 date: 2023-11-23T17:39:42+0800
+title: Kafka触发unclean leader选举的时机问题
 layout: post
 
 ---

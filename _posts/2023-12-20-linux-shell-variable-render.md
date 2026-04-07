@@ -1,6 +1,7 @@
 ---
 
 date: 2023-12-20T23:12:13+0800
+title: Linux Shell变量赋值与展开的执行时机
 layout: post
 
 ---

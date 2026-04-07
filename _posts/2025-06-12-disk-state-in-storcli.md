@@ -1,6 +1,7 @@
 ---
 
 date: 2025-06-12T11:46:41+0800
+title: storcli磁盘状态说明
 layout: post
 
 ---

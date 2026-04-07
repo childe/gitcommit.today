@@ -1,6 +1,7 @@
 ---
 
 date: 2025-02-26T19:15:24+0800
+title: docker-compose迁移到podman-compose的网络问题
 layout: post
 
 ---

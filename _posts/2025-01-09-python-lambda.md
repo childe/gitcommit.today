@@ -1,6 +1,7 @@
 ---
 
 date: 2025-01-09T17:27:24+0800
+title: Python循环中lambda捕获变量的两种正确方式
 layout: post
 
 ---

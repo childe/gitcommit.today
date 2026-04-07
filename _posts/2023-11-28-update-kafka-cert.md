@@ -1,6 +1,7 @@
 ---
 
 date: 2023-11-28T14:12:38+0800
+title: Kafka证书在线更新与滚动重启
 layout: post
 
 ---

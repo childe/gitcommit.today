@@ -1,6 +1,7 @@
 ---
 
 date: 2022-09-19T12:51:47+0800
+title: Python日志的懒惰求值方式
 layout: post
 
 ---

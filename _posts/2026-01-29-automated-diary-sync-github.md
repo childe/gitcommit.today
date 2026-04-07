@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Diary 2026-01-29 23:17"
+title: 配置自动化同步日记到GitHub
 date: 2026-01-29 23:17:36
 categories: diary
 ---

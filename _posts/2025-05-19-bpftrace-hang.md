@@ -1,7 +1,7 @@
 ---
 
 date: 2025-05-19T11:22:36+0800
-title: 
+title: bpftrace卡住因DEBUGINFOD_URLS连接外网
 layout: post
 
 ---

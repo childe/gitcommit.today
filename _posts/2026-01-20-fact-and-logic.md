@@ -1,7 +1,7 @@
 ---
 
 date: 2026-01-20T16:03:10+0800
-title: 事实And逻辑
+title: 讲事实是讲逻辑的前提
 layout: post
 
 ---

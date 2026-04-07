@@ -1,6 +1,7 @@
 ---
 
 date: 2024-03-16T10:31:35+0800
+title: 检测Go程序是否运行在Rosetta翻译环境
 layout: post
 
 ---

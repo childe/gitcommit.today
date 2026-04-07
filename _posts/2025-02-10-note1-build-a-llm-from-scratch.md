@@ -1,6 +1,7 @@
 ---
 
 date: 2025-02-10T15:05:00+0800
+title: 从零构建LLM学习笔记一：token到向量嵌入
 layout: post
 
 ---

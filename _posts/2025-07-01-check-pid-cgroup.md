@@ -1,6 +1,7 @@
 ---
 
 date: 2025-07-01T11:11:32+0800
+title: 查看进程所属cgroup
 layout: post
 
 ---

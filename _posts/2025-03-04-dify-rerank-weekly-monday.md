@@ -1,7 +1,7 @@
 ---
 
 date: 2025-03-04T11:56:11+0800
-title: 流水帐-周一
+title: Dify添加Rerank步骤优化RAG检索
 layout: post
 
 ---

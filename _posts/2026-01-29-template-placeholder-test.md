@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Diary 2026-01-29 23:18"
+title: 模板占位符测试
 date: 2026-01-29 23:18:38
 categories: diary
 ---

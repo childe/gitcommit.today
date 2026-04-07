@@ -1,7 +1,7 @@
 ---
 
 date: 2025-03-05T16:24:10+0800
-title: vllm-openllm-run-http-server
+title: 用vLLM和LLaMA Factory起HTTP服务接入Dify
 layout: post
 
 ---

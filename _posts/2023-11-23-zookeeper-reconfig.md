@@ -1,6 +1,7 @@
 ---
 
 date: 2023-11-23T10:59:52+0800
+title: ZooKeeper动态添加节点reconfig操作
 layout: post
 
 ---

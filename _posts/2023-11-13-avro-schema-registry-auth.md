@@ -1,6 +1,7 @@
 ---
 
 date: 2023-11-13T17:54:53+0800
+title: Avro Schema Registry认证头配置
 layout: post
 
 ---

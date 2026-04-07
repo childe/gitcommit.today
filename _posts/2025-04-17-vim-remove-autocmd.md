@@ -1,6 +1,7 @@
 ---
 
 date: 2025-04-17T11:59:31+0800
+title: vim移除或动态控制autocmd
 layout: post
 
 ---

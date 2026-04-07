@@ -1,6 +1,7 @@
 ---
 
 date: 2023-06-25T15:26:21+0800
+title: fstab挂载使用nofail和超时配置
 layout: post
 
 ---

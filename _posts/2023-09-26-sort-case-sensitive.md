@@ -1,6 +1,7 @@
 ---
 
 date: 2023-09-26T11:26:29+0800
+title: LC_COLLATE=C实现sort大小写敏感排序
 layout: post
 
 ---

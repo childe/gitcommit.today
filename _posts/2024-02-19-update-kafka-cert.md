@@ -1,6 +1,7 @@
 ---
 
 date: 2024-02-19T19:18:06+0800
+title: 在线更新Kafka Broker TLS证书脚本
 layout: post
 
 ---

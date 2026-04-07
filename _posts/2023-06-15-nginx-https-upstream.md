@@ -1,6 +1,7 @@
 ---
 
 date: 2023-06-16T10:25:04+0800
+title: nginx反向代理HTTPS默认不验证证书
 layout: post
 
 ---

@@ -1,7 +1,7 @@
 ---
 
 date: 2023-03-19T21:13:24+0800
-title: docker-buildx
+title: docker buildx构建多架构镜像
 layout: post
 
 ---

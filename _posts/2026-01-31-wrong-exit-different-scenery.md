@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Diary
+title: 走错出口看不同风景
 date: 2026-01-31 03:54:39
 ---
 

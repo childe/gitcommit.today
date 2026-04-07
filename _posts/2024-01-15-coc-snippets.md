@@ -1,6 +1,7 @@
 ---
 
 date: 2024-01-15T17:51:31+0800
+title: vim coc-snippets与UltiSnips格式配置
 layout: post
 
 ---

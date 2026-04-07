@@ -1,7 +1,7 @@
 ---
 
 date: 2024-05-06T14:40:40+0800
-title: tcp sync flood
+title: Kafka broker报TCP SYN Flooding告警排查
 layout: post
 
 ---

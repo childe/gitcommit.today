@@ -1,6 +1,7 @@
 ---
 
 date: 2023-09-12T10:42:55+0800
+title: Kubernetes Pod删除卡住因volume未清理
 layout: post
 
 ---

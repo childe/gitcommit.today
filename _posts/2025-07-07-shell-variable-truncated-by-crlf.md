@@ -1,6 +1,7 @@
 ---
 
 date: 2025-07-07T14:39:30+0800
+title: shell变量末尾有换行符导致echo输出截断
 layout: post
 
 ---

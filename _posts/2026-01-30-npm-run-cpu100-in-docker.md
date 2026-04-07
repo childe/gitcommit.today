@@ -1,6 +1,7 @@
 ---
 
 date: 2026-01-30T01:56:00+0800
+title: macOS Podman容器npm构建CPU飙高排查
 layout: post
 
 ---

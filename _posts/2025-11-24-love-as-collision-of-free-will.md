@@ -1,7 +1,7 @@
 ---
 
 date: 2025-11-24T14:06:28+0800
-title: love
+title: 爱是自由意志的碰撞与融合
 layout: post
 
 ---

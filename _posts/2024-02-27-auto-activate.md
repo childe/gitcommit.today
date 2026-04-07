@@ -1,6 +1,7 @@
 ---
 
 date: 2024-02-27T16:10:38+0800
+title: 进入目录自动激活Python虚拟环境
 layout: post
 
 ---

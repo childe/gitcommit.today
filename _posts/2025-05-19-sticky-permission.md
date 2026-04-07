@@ -1,6 +1,7 @@
 ---
 
 date: 2025-05-19T16:55:41+0800
+title: Linux目录Sticky权限详解
 layout: post
 
 ---

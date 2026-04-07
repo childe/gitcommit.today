@@ -1,6 +1,7 @@
 ---
 
 date: 2025-07-31T10:51:23+0800
+title: uv固化Python版本配置方法
 layout: post
 
 ---

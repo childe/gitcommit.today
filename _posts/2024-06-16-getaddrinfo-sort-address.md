@@ -1,6 +1,7 @@
 ---
 
 date: 2024-06-16T23:24:24+0800
+title: getaddrinfo按RFC3484优先返回最近地址
 layout: post
 
 ---

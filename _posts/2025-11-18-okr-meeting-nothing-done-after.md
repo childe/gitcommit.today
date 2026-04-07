@@ -1,7 +1,7 @@
 ---
 
 date: 2025-11-18T18:25:16+0800
-title: okr
+title: OKR会后啥也没做的感叹
 layout: post
 
 ---
