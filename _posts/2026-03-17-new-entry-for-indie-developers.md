@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Diary
+title: 独立开发者需要新的分发入口
 date: 2026-03-17 08:49:55
 ---
 

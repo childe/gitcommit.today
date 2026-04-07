@@ -1,7 +1,7 @@
 ---
 
 date: 2026-02-27T00:34:47+0800
-title: kpi
+title: KPI驱动下的拍脑袋决策
 layout: post
 
 ---
